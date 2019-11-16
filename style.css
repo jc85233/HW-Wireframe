@@ -1,0 +1,98 @@
+  .container {
+    margin: 10px auto;
+    margin-top: 10px;
+    width: 960px;
+    color:#ebebeb;
+    background: #777; 
+    font-size: 20px;}
+  
+  header {
+    background-color:#ebebeb;
+    height: 100px;
+    padding: 10px;
+    border: 4px solid #777;
+    text-align: center;
+    color: #777;
+    
+  }
+  
+  nav {
+    background-color: #ebebeb;
+    width: auto;
+    height: 50px;
+    padding: 10px;
+    border: 4px solid #777;
+    text-align: center;
+    color: #777;
+    padding: 3%;
+  }
+  
+  section {
+    background-color: #ebebeb;
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+    border: 1px solid #777;
+    text-align: center;
+    color: #777;
+    border: 4px solid #777;
+    
+    
+  }
+  .sectionline {float: left;
+    width: 47%;
+
+}
+.midbox {display: inline-block;
+width: 960px;
+height: auto;}
+
+ aside {background-color: #ebebeb;
+    width: 45%;
+    height: 300px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.25em;
+    text-align: center;
+    color: #777;
+    float: right;
+    border: 4px solid #777;
+}
+  article {float: center;
+    height: 200px;
+    padding: 20px;
+    text-align: center;
+    background-color: #777;
+    color: #ebebeb;  
+}
+.h1lines {text-align: center;
+    background-color: #ebebeb;
+    color: #777;
+    height: 50px;
+}
+
+.plines {text-align: center;
+    background-color: #ebebeb;
+    color: #777;
+    height: 50px;
+}
+
+footer {
+    background-color: #ebebeb;
+    height: 100px;
+    width: auto;
+    padding: 10px;
+    border: 4px solid #777;
+    text-align: center;
+    color: #777;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+body 
+{color: #777;
+background-color: #777;}
